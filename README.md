@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kunal-kumar09
+- 👋 Hi, I’m @SKM360
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently PURSUING MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kolkata
 
