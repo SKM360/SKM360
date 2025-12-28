@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SKM360
-- 👀 I’m interested in programming
-- 🌱 I’m currently PURSUING MSC CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me SAMBALPUR
+<h1 align="center">Hi 👋, I'm skm360</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!---
-IT  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skm360&label=Profile%20views&color=0e75b6&style=flat" alt="skm360" /> </p>
+
